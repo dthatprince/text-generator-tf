@@ -9,5 +9,5 @@ This project is a text generator application built using GPT-2, Gradio, and Tens
 - Interactive Demo: Includes an interactive demo where users can test the app in real-time.
 
 ### Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
